@@ -47,7 +47,7 @@ if (isset($_POST["submit"]))
                     <input name="estado" class="form-estado">
                 </div>
                 <div class="botao">
-                    <button type="submit" name="submit" class="btn btn-primary">Sign in</button>
+                    <button type="submit" name="submit" class="btn btn-primary">Cadastrar</button>
                 </div>
             </div>
         </form>
